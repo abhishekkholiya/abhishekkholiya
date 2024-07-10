@@ -1,4 +1,6 @@
-## Hi there 👋 ![hello there](https://tenor.com/bE4Yu.gif)
+## Hi there 👋 
+![hello there](https://tenor.com/bE4Yu.gif)
+
 I am Abhishek Kholiya a 17 year old programmer, inspired and fascinated by the ways of technology.
 
 <!--
