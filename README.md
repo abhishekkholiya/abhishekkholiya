@@ -1,7 +1,8 @@
-## Hi there 👋 
-![hello there](https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif)
+## Hello there 👋 
+I am Abhishek Kholiya a 17 year old programmer, inspired and fascinated by the use of tech for good
 
-I am Abhishek Kholiya a 17 year old programmer, inspired and fascinated by the ways of technology.
+Mostly coding websites, apps or machine learning models. 
+Currently working on a side project called clubMe
 
 <!--
 **abhishekkholiya/abhishekkholiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
