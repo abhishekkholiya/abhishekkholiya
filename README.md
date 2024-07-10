@@ -1,7 +1,7 @@
 ## Hello there 👋 
 I am Abhishek Kholiya a 17 year old programmer, inspired and fascinated by the use of tech for good
 
-Mostly coding websites, apps or machine learning models. 
+Mostly coding websites, apps or machine learning models.  
 Currently working on a side project called clubMe
 
 <!--
